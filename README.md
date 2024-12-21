@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate on development
