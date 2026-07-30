@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sravya Parimala</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusiast • UI/UX Enthusiast 
-</h3>
+# SRAVYA PARIMALA
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Beautiful+Web+Experiences;Learning+Something+New+Every+Day;Turning+Ideas+Into+Reality;Future+Software+Engineer" />
+### Computer Science Engineering Student • Full Stack Developer • UI/UX Enthusiast
+
+<p>
+Building elegant software with thoughtful design, modern web technologies,
+and clean, scalable code.
 </p>
 
+<br>
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 ---
 
 # 👩‍💻 About Me
@@ -53,26 +60,6 @@ Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusia
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srisravyapsnv&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p>
@@ -88,14 +75,6 @@ Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusia
 <a href="https://github.com/srisravyapsnv">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=srisravyapsnv&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
 
 </p>
 
