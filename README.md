@@ -2,7 +2,7 @@
 
 # SRAVYA PARIMALA
 
-### Computer Science Engineering Student • Full Stack Developer • UI/UX Enthusiast
+### Computer Science Engineering Student • Full Stack Developer • ML Enthusiast • UI/UX Developer
 
 <p>
 Building elegant software with thoughtful design, modern web technologies,
@@ -23,7 +23,7 @@ and clean, scalable code.
 
 💻 Passionate about Full Stack Development and Machine Learning
 
-🎨 Interested in UI/UX Design and Modern Interfaces
+🎨 Beginner level experience in UI/UX Design and Modern Interfaces
 
 🌱 Currently learning
 
